@@ -31,8 +31,7 @@ public class AES256 {
 
 
     /**
-     * @since	2018.12.20
-     * @author	iwntutovibrate
+     * @Date	2018.12.20
      * @param	str - String
      * @return	AES256 encode.String
      */
@@ -55,8 +54,7 @@ public class AES256 {
     }
 
     /**
-     * @since	2018.12.20
-     * @author	iwntutovibrate
+     * @Date	2018.12.20
      * @param	str - String
      * @return	AES256 decode.String
      */
