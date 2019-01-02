@@ -3,8 +3,7 @@ package com.example.demo.controller.uitls;
 public class ByteUtils {
 
 	/**
-	 * @since	2018.12.20
-	 * @author	iwntutovibrate
+	 * @Date	2018.12.20
 	 * @param	bytes - unsigned byte's array
 	 * @return	HexUtils.toString(byte[])
 	 */
@@ -26,8 +25,7 @@ public class ByteUtils {
 	}
 
 	/**
-	 * @since	2018.12.20
-	 * @author	iwntutovibrate
+	 * @Date	2018.12.20
 	 * @throws	IllegalArgumentException, NumberFormatException
 	 * @param	digits - Hexadecimal string
 	 * @return	byte[]
