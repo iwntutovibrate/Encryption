@@ -6,8 +6,7 @@ import java.security.NoSuchAlgorithmException;
 public class SHA256 {
 
     /**
-     * @since	2018.12.20
-     * @author	iwntutovibrate
+     * @Date	2018.12.20
      * @param	str - String
      * @return	SHA256 encode.String
      */
