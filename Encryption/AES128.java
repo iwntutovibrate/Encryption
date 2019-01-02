@@ -10,8 +10,7 @@ public class AES128 {
     private static final String CRYPTO_KEY = "nothing.gonna.do";
 
     /**
-     * @since	2018.12.20
-     * @author	iwntutovibrate
+     * @Date	2018.12.20
      * @param	str - String
      * @return	AES128 encrypt.String
      */
@@ -37,8 +36,7 @@ public class AES128 {
     }
 
     /**
-     * @since	2018.12.20
-     * @author	iwntutovibrate
+     * @Date	2018.12.20
      * @param	enc - String
      * @return	AES128 Decrypt.String
      */
